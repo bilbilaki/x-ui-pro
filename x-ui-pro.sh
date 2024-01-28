@@ -147,7 +147,7 @@ if systemctl is-active --quiet x-ui; then
 	UPDATE_XUIDB
 	x-ui restart
 else
-	PANEL=(	"https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh"
+	PANEL=(	"https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh"
 			"https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh"
 		)
 
